@@ -7,6 +7,9 @@
 * **Bài toán:** Xây dựng website xem phim trực tuyến cho phép người dùng tìm kiếm, xem phim, đánh giá, lưu phim yêu thích và quản lý lịch sử xem.
 * **Mục tiêu:** Phát triển một hệ thống Full-stack giúp người dùng có trải nghiệm xem phim thuận tiện, đồng thời hỗ trợ quản trị viên quản lý dữ liệu phim và người dùng.
 * **Ý nghĩa thực tiễn:** Cung cấp nền tảng xem phim trực tuyến với đầy đủ chức năng từ quản lý nội dung, xác thực người dùng đến gợi ý và đánh giá phim.
+<img width="1900" height="873" alt="Screenshot 2026-08-18 115711" src="https://github.com/user-attachments/assets/f803209c-ee58-4260-bde3-e12226c31e75" />
+<img width="1901" height="870" alt="Screenshot 2026-08-18 115655" src="https://github.com/user-attachments/assets/bf7ee44b-026a-44c6-a269-d0816da4a1e4" />
+<img width="1902" height="878" alt="Screenshot 2026-08-18 115641" src="https://github.com/user-attachments/assets/378264a4-6201-496c-8ec6-7656a17dbc00" />
 
 ---
 
